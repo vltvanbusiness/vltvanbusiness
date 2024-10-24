@@ -83,7 +83,14 @@
         <li align="justify">Knowledge Technology (Cryptography and Natural Language Processing)</li>
       </ul>
     </li>
-    <li><p align="justify">:zap: In my free time, I solve problems on many reliable resources: LeetCode, Hackerrank, CodeForces, ...etc and also read equivalent articles for my working and studying.</p></li>
+     <li>
+      <p align="justify">:zap: In my free time, there are ample things I really like to do, includes:</p>
+      <ul type="circle">
+        <li align="justify">Solving problems on many popular resources: LeetCode, Hackerrank, CodeForces, ...etc!</li>
+        <li align="justify">Joining in many beneficial Moocs from three reliable website (In my opinion and Ranking from highest to lowest): Coursera, EdX, Udemy!</li>
+        <li align="justify">Reading equivalent articles for the above specific areas: not merely to enhance my current knowledge but also to lift me from understanding less to understanding more and more!</li>
+      </ul>
+    </li>
     <li>
         <p align="justify">:mailbox: How to reach me:</p>
         <ul type="circle">
@@ -237,12 +244,40 @@
 
 ## :writing_hand: My Recent Blog Posts !!!
 
+<div id="personal-blog-posts-body">
+  <h4 align="center">My Individual Blog Post: Success Future</h4>
+  <ul>
+    <li align="justify">One crucial thing: Never give up !</li>
+    <li align="justify">
+      Becoming a scholar of one of dream universities: (Ranking from the highest to the lowest)
+      <ul typpe="circle">
+        <li align="justify">Massachusetts Institute of Technology (MIT)</li>
+        <li align="justify">Stanford University</li>
+        <li align="justify">Harvard University</li>
+      </ul>
+    </li>
+    <li align="justify">Becoming at least: PhD Scholar !</li>
+  </ul>
+  <br>
+  <br>
+  <p align="center">" Demanding, Perfectionist, Not Easy to Work with...!</p>
+  <p align="center">Hard-Working: for Every Single Day...!</p>
+  <p align="center">If _ want to do extraordinary things, It should not be EASY...! "</p>
+  <p align="center">- Founder and CEO of Nvidia: <b>Jesen Huang</b> -</p>
+</div>
+
+<br>
+
+<div id="personal-blog-posts-body">
+  <h4 align="center">Some Relevant Blog Posts</h4>
+</div>
+
 #### Comming Soon !!!
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <!---
-Individual-CS-KevinVanLearningChannel/Individual-CS-KevinVanLearningChannel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+vltvanbusiness/vltvanbusiness is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
