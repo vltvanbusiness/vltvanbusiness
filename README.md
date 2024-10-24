@@ -3,31 +3,43 @@
 </div>
 
 <div id="media-badges-header" align="center">
-  <a style="text-decoration:none" href="facebook.com/profile.php?id=61567172974019">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
+  <div id="media-badges-header--social-media">
+    <a style="text-decoration:none" href="https://facebook.com/profile.php?id=61567172974019">
+      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    </a>
+  </div>
   <hr>
-  <a style="text-decoration:none" href="https://www.youtube.com/@KevinVanLearningChannel">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" title="Reading - Youtube Channel" alt="Youtube Badge"/>
-  </a>
-  <span> Reading - Youtube Channel</span>
-  <a style="text-decoration:none" href="https://www.youtube.com/@KevinVanReadingChannel">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" title="Learning - Youtube Channel" alt="Youtube Badge"/>
-  </a>
+  <div id="media-badges-header--youtube-channel">
+    <a style="text-decoration:none" href="https://www.youtube.com/@KevinVanLearningChannel">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" title="Reading - Youtube Channel" alt="Youtube Badge"/>
+    </a>
+    <span> Reading - Youtube Channel</span>
+    <a style="text-decoration:none" href="https://www.youtube.com/@KevinVanReadingChannel">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" title="Learning - Youtube Channel" alt="Youtube Badge"/>
+    </a>
   <span> Learning - Youtube Channel</span>
+  </div>
   <hr>
-  <a style="text-decoration:none" href="https://github.com/HCMUS-CS-KevinVanLearningChannel">
-    <img src="https://img.shields.io/badge/GitHub-red?style=for-the-badge&logo=github&logoColor=white" title="HCMUS - Learning GitHub" alt="GitHub Badge"/>
-  </a>
-  <span> HCMUS - Learning GitHub</span>
-  <a style="text-decoration:none" href="https://github.com/Individual-CS-KevinVanLearningChannel">
-    <img src="https://img.shields.io/badge/GitHub-red?style=for-the-badge&logo=github&logoColor=white" title="Individual - Learning GitHub" alt="GitHub Badge"/>
-  </a>
-  <span> Individual - Learning GitHub</span>
-  <a style="text-decoration:none" href="https://github.com/vltvanbusiness">
-    <img src="https://img.shields.io/badge/GitHub-red?style=for-the-badge&logo=github&logoColor=white" title="Business - Individual GitHub" alt="GitHub Badge"/>
-  </a>
-  <span> Business - Individual GitHub</span>
+  <div id="media-badges-header--github">
+    <a style="text-decoration:none" href="https://github.com/vltvanbusiness">
+      <img src="https://img.shields.io/badge/GitHub-red?style=for-the-badge&logo=github&logoColor=white" title="Business - Individual GitHub" alt="GitHub Badge"/>
+    </a>
+    <span> Business - Individual GitHub</span>
+    <br>
+    <br>
+    <a style="text-decoration:none" href="https://github.com/HCMUS-CS-KevinVanLearningChannel">
+      <img src="https://img.shields.io/badge/GitHub-red?style=for-the-badge&logo=github&logoColor=white" title="HCMUS - Learning GitHub" alt="GitHub Badge"/>
+    </a>
+    <span> HCMUS - Learning GitHub</span>
+    <a style="text-decoration:none" href="https://github.com/Individual-CS-KevinVanLearningChannel">
+      <img src="https://img.shields.io/badge/GitHub-red?style=for-the-badge&logo=github&logoColor=white" title="Individual - Learning GitHub" alt="GitHub Badge"/>
+    </a>
+    <span> Individual - Learning GitHub</span>
+    <a style="text-decoration:none" href="https://github.com/KevinVanReadingChannel">
+      <img src="https://img.shields.io/badge/GitHub-red?style=for-the-badge&logo=github&logoColor=white" title="Individual - Reading GitHub" alt="GitHub Badge"/>
+    </a>
+    <span> Individual - Reading GitHub</span>
+  </div>
 </div>
 
 <br>
